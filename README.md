@@ -317,7 +317,7 @@ public class MyDispatcherServlet extends HttpServlet{
 上面完成之后部署项目到服务器。
 
 访问：(http://localhost:8080/MyMVC/test/doTest?param=machangchang
-)
+)。
 
 输出：doTest method success! param:machangchang。
 
